@@ -35,4 +35,5 @@
 - Databinding
 - Flow
 
-## 
+## 시연영상
+<img src="https://user-images.githubusercontent.com/62510764/215315193-939593af-d1a2-4832-88db-ff2f669c4dab.gif">
